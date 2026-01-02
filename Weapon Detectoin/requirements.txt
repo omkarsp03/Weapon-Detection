@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+customtkinter
+twilio
+pillow
+numpy
+shapely

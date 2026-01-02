@@ -1,0 +1,171 @@
+[
+    {
+        "index": 0,
+        "timestamp": "2026-01-02T20:12:10.125237",
+        "data": {
+            "timestamp": "2026-01-02T20:12:10.125237",
+            "filename": "evidence_20260102_201210_125759.jpg",
+            "meta": [
+                {
+                    "label": "scissors",
+                    "confidence": 0.599223792552948,
+                    "box": [
+                        309,
+                        329,
+                        979,
+                        807
+                    ]
+                }
+            ],
+            "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000"
+        },
+        "current_hash": "451fda6475ea1da68a327484596bdbd3ccd1f37b90d175ba720e6072f6323462"
+    },
+    {
+        "index": 1,
+        "timestamp": "2026-01-02T20:12:25.929904",
+        "data": {
+            "timestamp": "2026-01-02T20:12:25.929904",
+            "filename": "evidence_20260102_201225_929911.jpg",
+            "meta": [
+                {
+                    "label": "scissors",
+                    "confidence": 0.7188341021537781,
+                    "box": [
+                        0,
+                        98,
+                        1502,
+                        992
+                    ]
+                },
+                {
+                    "label": "scissors",
+                    "confidence": 0.6320694088935852,
+                    "box": [
+                        0,
+                        121,
+                        666,
+                        656
+                    ]
+                }
+            ],
+            "previous_hash": "451fda6475ea1da68a327484596bdbd3ccd1f37b90d175ba720e6072f6323462"
+        },
+        "current_hash": "4dff560baa694e5b3787379492b9a503e8dd5ccff0e335c91018e73cc66cc481"
+    },
+    {
+        "index": 2,
+        "timestamp": "2026-01-02T20:26:55.429292",
+        "data": {
+            "timestamp": "2026-01-02T20:26:55.429292",
+            "filename": "20260102_202655_scissors/evidence_0.jpg",
+            "incident_id": "20260102_202655_scissors",
+            "meta": [
+                {
+                    "label": "scissors",
+                    "confidence": 0.9677467942237854,
+                    "box": [
+                        802,
+                        252,
+                        1648,
+                        785
+                    ]
+                }
+            ],
+            "previous_hash": "4dff560baa694e5b3787379492b9a503e8dd5ccff0e335c91018e73cc66cc481"
+        },
+        "current_hash": "3f2714d66c2683fe9f999f183a4e2b8d6ce6e94ff1f70ab03a36c87ae655474f"
+    },
+    {
+        "index": 3,
+        "timestamp": "2026-01-02T20:26:55.647977",
+        "data": {
+            "timestamp": "2026-01-02T20:26:55.647977",
+            "filename": "20260102_202655_scissors/evidence_1.jpg",
+            "incident_id": "20260102_202655_scissors",
+            "meta": [
+                {
+                    "label": "scissors",
+                    "confidence": 0.966433584690094,
+                    "box": [
+                        818,
+                        229,
+                        1679,
+                        796
+                    ]
+                }
+            ],
+            "previous_hash": "3f2714d66c2683fe9f999f183a4e2b8d6ce6e94ff1f70ab03a36c87ae655474f"
+        },
+        "current_hash": "8e0f099c8ba78589173d72481d8f9e14cabb8d82fb7622dde49cba1de4522529"
+    },
+    {
+        "index": 4,
+        "timestamp": "2026-01-02T20:26:55.850252",
+        "data": {
+            "timestamp": "2026-01-02T20:26:55.850252",
+            "filename": "20260102_202655_scissors/evidence_2.jpg",
+            "incident_id": "20260102_202655_scissors",
+            "meta": [
+                {
+                    "label": "scissors",
+                    "confidence": 0.8028404712677002,
+                    "box": [
+                        826,
+                        234,
+                        1693,
+                        843
+                    ]
+                }
+            ],
+            "previous_hash": "8e0f099c8ba78589173d72481d8f9e14cabb8d82fb7622dde49cba1de4522529"
+        },
+        "current_hash": "bb4373e7991cee886f33ca139b2d1d75f2b95ab6e7e23ee5ec708e89f4d52645"
+    },
+    {
+        "index": 5,
+        "timestamp": "2026-01-02T20:26:56.051717",
+        "data": {
+            "timestamp": "2026-01-02T20:26:56.051717",
+            "filename": "20260102_202655_scissors/evidence_3.jpg",
+            "incident_id": "20260102_202655_scissors",
+            "meta": [
+                {
+                    "label": "scissors",
+                    "confidence": 0.8320516347885132,
+                    "box": [
+                        823,
+                        247,
+                        1730,
+                        885
+                    ]
+                }
+            ],
+            "previous_hash": "bb4373e7991cee886f33ca139b2d1d75f2b95ab6e7e23ee5ec708e89f4d52645"
+        },
+        "current_hash": "599f9375f5b0c54b47fd58550f87850fcce725715c2d534e50496df4121aac95"
+    },
+    {
+        "index": 6,
+        "timestamp": "2026-01-02T20:26:56.252463",
+        "data": {
+            "timestamp": "2026-01-02T20:26:56.252463",
+            "filename": "20260102_202655_scissors/evidence_4.jpg",
+            "incident_id": "20260102_202655_scissors",
+            "meta": [
+                {
+                    "label": "scissors",
+                    "confidence": 0.9297179579734802,
+                    "box": [
+                        823,
+                        225,
+                        1760,
+                        899
+                    ]
+                }
+            ],
+            "previous_hash": "599f9375f5b0c54b47fd58550f87850fcce725715c2d534e50496df4121aac95"
+        },
+        "current_hash": "42153713313e6c780a96e9ab020ef1d8531dab8b88a40d0493b1a7be21334628"
+    }
+]
